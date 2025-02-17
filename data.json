@@ -1,0 +1,25 @@
+{
+    "device_pairing": {
+        "device_001": {
+            "mac_address": "11:22:33:44:55:66"
+        },
+        "device_002": {
+            "mac_address": "AA:BB:CC:DD:EE:FF"
+        },
+        "device_003": {
+            "mac_address": "77:88:99:AA:BB:CC"
+        }
+    },
+    "user_attributes": {
+        "David": {
+            "assigned_floor": "floor_3",
+            "role": "Employee"
+        },
+        "Emma": {
+            "role": "Visitor"
+        },
+        "Frank": {
+            "role": "Visitor"
+        }
+    }
+}
